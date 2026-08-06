@@ -1,6 +1,6 @@
 # system24
 
-<img src="https://github.com/refact0r/system24/raw/main/assets/image.png">
+<img src="https://github.com/aShroomie/system24-ember/blob/main/assets/image.png">
 
 ## discord server
 
